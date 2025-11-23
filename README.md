@@ -2,10 +2,6 @@
 
 Bu benim GitHub profil README'im.
 
-<details>
-  <summary>İsmimi göster / gizle</summary>
-
-  ### İsim
-  **Ahmet Yılmaz** <!-- Buraya isminizi yazın -->
-
-</details>
+<!-- NAME-START -->
+İsim yok. <!-- Bu kısım action tarafından değiştirilecek -->
+<!-- NAME-END -->
