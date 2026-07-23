@@ -1,93 +1,54 @@
-<div align="center">
+# 👋 Merhaba, ben Doğukan Ballıoğlu
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:6C63FF,100:3B82F6&text=Doğukan%20Ballıoğlu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-# 👋 Merhaba!
-
-### Bilgisayar Mühendisliği Öğrencisi • Backend Developer
-
-Modern web uygulamaları geliştiriyor, ölçeklenebilir backend sistemleri tasarlıyor ve yeni teknolojiler öğreniyorum.
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1500&color=6C63FF&center=true&vCenter=true&width=650&lines=ASP.NET+Core;React;Node.js;SQL+Server;Clean+Architecture;Always+Learning"/>
-
-</div>
+Bilgisayar Mühendisliği öğrencisiyim. ASP.NET Core, React ve Node.js ile modern web uygulamaları geliştiriyor, backend tarafında ölçeklenebilir çözümler üretmeye odaklanıyorum.
 
 ---
 
-## 🚀 Kullandığım Teknolojiler
+## 🛠 Teknolojiler
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,js,ts,python,html,css,mysql,docker,git,github,vscode&perline=7"/>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub İstatistikleri
 
-<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DogukanBallioglu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DogukanBallioglu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanBallioglu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DogukanBallioglu&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanBallioglu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
 ## 📫 Bana Ulaş
 
-<div align="center">
-
+<p>
 <a href="mailto:dogukanballioglu23@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/DogukanBallioglu">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/dogukanballioglu">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/dgknbll_">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DogukanBallioglu&label=Profil+Ziyaretçisi&color=6C63FF&style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-> **"Temiz kod, sürdürülebilir yazılımın temelidir."**
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,100:3B82F6"/>
+</p>
