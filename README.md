@@ -1,7 +1,7 @@
 <h2 align="center">Merhaba! Ben Doğukan Ballıoğlu 👋</h2>
 
 <p align="center">
-  Bilgisayar Bilimleri öğrencisiyim. Modern web uygulamaları geliştiriyor, veri tabanı mimarileri kuruyor ve süreçleri otomatize eden yazılımlar tasarlıyorum. Özellikle <b>C# (ASP.NET Core)</b> ve <b>React</b> ile kurumsal yönetim sistemleri ve <b>Node.js</b> ile otomasyon botları üzerine aktif olarak çalışıyorum.
+  Bilgisayar Mühendisliği öğrencisiyim. Modern web uygulamaları geliştiriyor, veri tabanı mimarileri kuruyor ve süreçleri otomatize eden yazılımlar tasarlıyorum. Özellikle <b>C# (ASP.NET Core)</b> ve <b>React</b> ile kurumsal yönetim sistemleri ve <b>Node.js</b> ile otomasyon botları üzerine aktif olarak çalışıyorum.
 </p>
 
 <br>
