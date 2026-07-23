@@ -45,10 +45,13 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="left">
-[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=DogukanBallioglu&show_icons=true&theme=radical&hide_border=true)](https://github.com/DogukanBallioglu)
-[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanBallioglu&layout=compact&theme=radical&hide_border=true)](https://github.com/DogukanBallioglu)
+  <a href="https://github.com/DogukanBallioglu" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=DogukanBallioglu&show_icons=true&theme=radical&hide_border=true" alt="GitHub İstatistikleri" />
+  </a>
+  <a href="https://github.com/DogukanBallioglu" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanBallioglu&layout=compact&theme=radical&hide_border=true" alt="En Çok Kullanılan Diller" />
+  </a>
 </p>
-<sub>İstatistikler yüklenmiyorsa sorun yoktur, GitHub'ın önbellek sistemiyle ilgili geçici bir durumdur. Kodda hata yok.</sub>
 
 ---
 
