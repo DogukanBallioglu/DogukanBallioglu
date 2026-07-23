@@ -65,9 +65,9 @@ hedef:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DogukanBallioglu&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanBallioglu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -75,7 +75,7 @@ hedef:
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true"/>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=DogukanBallioglu&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -85,7 +85,7 @@ hedef:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DogukanBallioglu&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -95,7 +95,7 @@ hedef:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DogukanBallioglu&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -221,19 +221,19 @@ public class Developer
 
 <div align="center">
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/dogukanballioglu">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
 
-<a href="mailto:mail@mail.com">
+<a href="mailto:dogukanballioglu23@gmail.com">
 
 <img src="https://skillicons.dev/icons?i=gmail"/>
 
 </a>
 
-<a href="https://github.com/KULLANICI_ADIN">
+<a href="https://github.com/DogukanBallioglu">
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
